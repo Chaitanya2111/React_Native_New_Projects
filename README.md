@@ -40,7 +40,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/Chaitanya2111/React_Native_New_Projects
     cd your-repo-name
     ```
 
